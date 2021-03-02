@@ -1,0 +1,225 @@
+[
+  {
+    "export_type": "DataTable",
+    "0": {
+      "export_type": "RowStruct",
+      "MessageType": "EEventMessageType::EMT_MESSAGE",
+      "DisplayOrder": 10,
+      "SpeakerName": {
+        "string": "風のクリスタル（？）",
+        "namespace": "Ev00_0000",
+        "key": "0_SpeakerName"
+      },
+      "SpeakerDisplayId": {
+        "string": "narration",
+        "namespace": "Ev00_0000",
+        "key": "0_SpeakerDisplayId"
+      },
+      "Speech": {
+        "string": "I am that which whispers... Which carries... Which connects...",
+        "namespace": "Ev00_0000",
+        "key": "0_Speech"
+      },
+      "CharacterId": {
+        "string": "OBJ001_1",
+        "namespace": "Ev00_0000",
+        "key": "0_CharacterId"
+      },
+      "VoiceLabel": {
+        "string": "Ev00_0000_M010_ob01_m",
+        "namespace": "Ev00_0000",
+        "key": "0_VoiceLabel"
+      },
+      "AnotherVoiceLabel": "None",
+      "DisplayTime": 0.0,
+      "FacialId": { "string": "", "namespace": "", "key": "" },
+      "MotionId": { "string": "", "namespace": "", "key": "" },
+      "BalloonType": 0,
+      "BalloonDirection": 0,
+      "BalloonExtention": 0,
+      "IsFollowBalloon": false,
+      "QuestProgress": 0,
+      "Unskippable": false,
+      "IsDisplaySpeakerName": false,
+      "ChoiceList": [],
+      "CorrectAnswer": 0,
+      "BillingAmount": 0
+    },
+    "1": {
+      "export_type": "RowStruct",
+      "MessageType": "EEventMessageType::EMT_MESSAGE",
+      "DisplayOrder": 20,
+      "SpeakerName": {
+        "string": "風のクリスタル（？）",
+        "namespace": "Ev00_0000",
+        "key": "1_SpeakerName"
+      },
+      "SpeakerDisplayId": {
+        "string": "narration",
+        "namespace": "Ev00_0000",
+        "key": "1_SpeakerDisplayId"
+      },
+      "Speech": {
+        "string": "This thread of life... Adrift... Untethered... It must be woven back into the fabric of the world...",
+        "namespace": "Ev00_0000",
+        "key": "1_Speech"
+      },
+      "CharacterId": {
+        "string": "OBJ001_1",
+        "namespace": "Ev00_0000",
+        "key": "1_CharacterId"
+      },
+      "VoiceLabel": {
+        "string": "Ev00_0000_M020_ob01_m",
+        "namespace": "Ev00_0000",
+        "key": "1_VoiceLabel"
+      },
+      "AnotherVoiceLabel": "None",
+      "DisplayTime": 0.0,
+      "FacialId": { "string": "", "namespace": "", "key": "" },
+      "MotionId": { "string": "", "namespace": "", "key": "" },
+      "BalloonType": 0,
+      "BalloonDirection": 0,
+      "BalloonExtention": 0,
+      "IsFollowBalloon": false,
+      "QuestProgress": 0,
+      "Unskippable": false,
+      "IsDisplaySpeakerName": false,
+      "ChoiceList": [],
+      "CorrectAnswer": 0,
+      "BillingAmount": 0
+    },
+    "2": {
+      "export_type": "RowStruct",
+      "MessageType": "EEventMessageType::EMT_MESSAGE",
+      "DisplayOrder": 30,
+      "SpeakerName": {
+        "string": "風のクリスタル（？）",
+        "namespace": "Ev00_0000",
+        "key": "2_SpeakerName"
+      },
+      "SpeakerDisplayId": {
+        "string": "narration",
+        "namespace": "Ev00_0000",
+        "key": "2_SpeakerDisplayId"
+      },
+      "Speech": {
+        "string": "Remember... Remember who you are...",
+        "namespace": "Ev00_0000",
+        "key": "2_Speech"
+      },
+      "CharacterId": {
+        "string": "OBJ001_1",
+        "namespace": "Ev00_0000",
+        "key": "2_CharacterId"
+      },
+      "VoiceLabel": {
+        "string": "Ev00_0000_M030_ob01_m",
+        "namespace": "Ev00_0000",
+        "key": "2_VoiceLabel"
+      },
+      "AnotherVoiceLabel": "None",
+      "DisplayTime": 0.0,
+      "FacialId": { "string": "", "namespace": "", "key": "" },
+      "MotionId": { "string": "", "namespace": "", "key": "" },
+      "BalloonType": 0,
+      "BalloonDirection": 0,
+      "BalloonExtention": 0,
+      "IsFollowBalloon": false,
+      "QuestProgress": 0,
+      "Unskippable": false,
+      "IsDisplaySpeakerName": false,
+      "ChoiceList": [],
+      "CorrectAnswer": 0,
+      "BillingAmount": 0
+    },
+    "3": {
+      "export_type": "RowStruct",
+      "MessageType": "EEventMessageType::EMT_MESSAGE",
+      "DisplayOrder": 40,
+      "SpeakerName": {
+        "string": "風のクリスタル（？）",
+        "namespace": "Ev00_0000",
+        "key": "3_SpeakerName"
+      },
+      "SpeakerDisplayId": {
+        "string": "narration",
+        "namespace": "Ev00_0000",
+        "key": "3_SpeakerDisplayId"
+      },
+      "Speech": {
+        "string": "Now go... Return to the land... To your destiny...",
+        "namespace": "Ev00_0000",
+        "key": "3_Speech"
+      },
+      "CharacterId": {
+        "string": "OBJ001_1",
+        "namespace": "Ev00_0000",
+        "key": "3_CharacterId"
+      },
+      "VoiceLabel": {
+        "string": "Ev00_0000_M040_ob01_m",
+        "namespace": "Ev00_0000",
+        "key": "3_VoiceLabel"
+      },
+      "AnotherVoiceLabel": "None",
+      "DisplayTime": 0.0,
+      "FacialId": { "string": "", "namespace": "", "key": "" },
+      "MotionId": { "string": "", "namespace": "", "key": "" },
+      "BalloonType": 0,
+      "BalloonDirection": 0,
+      "BalloonExtention": 0,
+      "IsFollowBalloon": false,
+      "QuestProgress": 0,
+      "Unskippable": false,
+      "IsDisplaySpeakerName": false,
+      "ChoiceList": [],
+      "CorrectAnswer": 0,
+      "BillingAmount": 0
+    },
+    "4": {
+      "export_type": "RowStruct",
+      "MessageType": "EEventMessageType::EMT_MESSAGE",
+      "DisplayOrder": 50,
+      "SpeakerName": {
+        "string": "風のクリスタル（？）",
+        "namespace": "Ev00_0000",
+        "key": "4_SpeakerName"
+      },
+      "SpeakerDisplayId": {
+        "string": "narration",
+        "namespace": "Ev00_0000",
+        "key": "4_SpeakerDisplayId"
+      },
+      "Speech": {
+        "string": "Cry out... Call out your name...",
+        "namespace": "Ev00_0000",
+        "key": "4_Speech"
+      },
+      "CharacterId": {
+        "string": "OBJ001_1",
+        "namespace": "Ev00_0000",
+        "key": "4_CharacterId"
+      },
+      "VoiceLabel": {
+        "string": "Ev00_0000_M050_ob01_m",
+        "namespace": "Ev00_0000",
+        "key": "4_VoiceLabel"
+      },
+      "AnotherVoiceLabel": "None",
+      "DisplayTime": 0.0,
+      "FacialId": { "string": "", "namespace": "", "key": "" },
+      "MotionId": { "string": "", "namespace": "", "key": "" },
+      "BalloonType": 0,
+      "BalloonDirection": 0,
+      "BalloonExtention": 0,
+      "IsFollowBalloon": false,
+      "QuestProgress": 0,
+      "Unskippable": false,
+      "IsDisplaySpeakerName": false,
+      "ChoiceList": [],
+      "CorrectAnswer": 0,
+      "BillingAmount": 0
+    }
+  }
+]

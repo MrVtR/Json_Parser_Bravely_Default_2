@@ -1,0 +1,311 @@
+[
+  {
+    "export_type": "BasicTextAsset",
+    "BasicTextDataMap": [
+      {
+        "key": "TITLE_NEWGAME",
+        "value": {
+          "string": "New Game",
+          "namespace": "TitleText",
+          "key": "449087F445123B68B455CFAAFB3F8187"
+        }
+      },
+      {
+        "key": "TITLE_NEWGAME_PLUS",
+        "value": {
+          "string": "New Game+",
+          "namespace": "TitleText",
+          "key": "A3FC1D7E402E32F1695FDFA0675BC2CA"
+        }
+      },
+      {
+        "key": "TITLE_LOADGAME",
+        "value": {
+          "string": "Load Game",
+          "namespace": "TitleText",
+          "key": "D748E46A49CA63935314759E954BC839"
+        }
+      },
+      {
+        "key": "TITLE_ONLINESHOP",
+        "value": {
+          "string": "Nintendo eShop",
+          "namespace": "TitleText",
+          "key": "990970464BEEE97128FC289F63DC9E42"
+        }
+      },
+      {
+        "key": "TITLE_CONTINUE",
+        "value": {
+          "string": "Continue",
+          "namespace": "TitleText",
+          "key": "8E74A9834A24E69CA622F3A11BF3A42F"
+        }
+      },
+      {
+        "key": "TITLE_NEWGAME_DESC",
+        "value": {
+          "string": "Start a new adventure.",
+          "namespace": "TitleText",
+          "key": "B62DFBC543A4F262F91ED29488FF3C56"
+        }
+      },
+      {
+        "key": "TITLE_ONLINESHOP_DESC",
+        "value": {
+          "string": "Access the Nintendo eShop.",
+          "namespace": "TitleText",
+          "key": "741BBE5C43829C10D2BE1A89E5BF4252"
+        }
+      },
+      {
+        "key": "TITLE_COPYRIGHT",
+        "value": {
+          "string": "©2021 SQUARE ENIX CO., LTD. All Rights Reserved.",
+          "namespace": "TitleText",
+          "key": "1063EC2443EB3B82C57F84AEA2B43785"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT",
+        "value": {
+          "string": "Data to Carry Over",
+          "namespace": "TitleText",
+          "key": "B5A1CD9842BEAAC1A869DF8D8EAB983A"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_ACTION_DECIDE",
+        "value": {
+          "string": "Confirm",
+          "namespace": "TitleText",
+          "key": "27DDD3014101AAC5939A8D8503A5B13E"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_PLAYTIME",
+        "value": {
+          "string": "Play Time",
+          "namespace": "TitleText",
+          "key": "1A98FDE44B15A05D5C80518DD5DF90DC"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_BATTLECOUNT",
+        "value": {
+          "string": "Battles Won",
+          "namespace": "TitleText",
+          "key": "D90FF765470B6E8AC0117C95CD5BCED8"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_MEMORY",
+        "value": {
+          "string": "Memories/Lore",
+          "namespace": "TitleText",
+          "key": "CF9B47034F9ABF6FA88EB89637DE026B"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_MONEY",
+        "value": {
+          "string": "Money",
+          "namespace": "TitleText",
+          "key": "662064D248B60D369AB4358DAC2DE7FA"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_ITEM",
+        "value": {
+          "string": "Items",
+          "namespace": "TitleText",
+          "key": "48624FE64F9143A9B3FBCE8A5AF26041"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_CHARALV",
+        "value": {
+          "string": "Character Levels",
+          "namespace": "TitleText",
+          "key": "5DD8B1F24A0602D877BE7C85C7D85606"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_JOB",
+        "value": {
+          "string": "Jobs",
+          "namespace": "TitleText",
+          "key": "2BF262CF432E8744A9E3CC99C29D9BB4"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_JOBLV",
+        "value": {
+          "string": "Job Levels",
+          "namespace": "TitleText",
+          "key": "CDC6102543C14E5CC6113497CA4C5237"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_CARD",
+        "value": {
+          "string": "B 'n' D Cards",
+          "namespace": "TitleText",
+          "key": "1DC151694656807741C878ABF0CAE4F6"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_RECORD",
+        "value": {
+          "string": "B 'n' D Results",
+          "namespace": "TitleText",
+          "key": "436AA1894DB5BA070F772CB720D86F3A"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_RANK",
+        "value": {
+          "string": "B 'n' D Rank",
+          "namespace": "TitleText",
+          "key": "CF8890FB415D900479C37C82C4095FF1"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_CAPTURE",
+        "value": {
+          "string": "Captured Monsters",
+          "namespace": "TitleText",
+          "key": "602A9AC24CEE21D2F0491195A8456597"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_CAPTURECOUNT",
+        "value": {
+          "string": "No. of Monsters Captured",
+          "namespace": "TitleText",
+          "key": "3602802C493CF8DE023C57B45BC838F0"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_PLAYTIME_DESC",
+        "value": {
+          "string": "Continue with the play time from your completed game.",
+          "namespace": "TitleText",
+          "key": "5B074726471AA7CE17244FB26C503192"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_BATTLECOUNT_DESC",
+        "value": {
+          "string": "Continue with the number of battles won from your completed game.",
+          "namespace": "TitleText",
+          "key": "46F7C8B34D758331B345A28CFBF2ED76"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_MEMORY_DESC",
+        "value": {
+          "string": "Continue with the memories and lore from your completed game remaining accessible.",
+          "namespace": "TitleText",
+          "key": "C85D6F184400BCB436A46885111029C3"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_MONEY_DESC",
+        "value": {
+          "string": "Continue with the pg from your completed game.",
+          "namespace": "TitleText",
+          "key": "6F42418D40D2738848E936B43411C3C8"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_ITEM_DESC",
+        "value": {
+          "string": "Continue with all items from your completed game. (Important items excluded.)",
+          "namespace": "TitleText",
+          "key": "D21F4F204FF4B05816DE7B8453AC422E"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_CHARALV_DESC",
+        "value": {
+          "string": "Continue with the character levels from your completed game.",
+          "namespace": "TitleText",
+          "key": "01DDF34641C15F970E0DC5988813D42B"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_JOB_DESC",
+        "value": {
+          "string": "Continue with the jobs from your completed game.\n(If job levels are not carried over, each job will be at its base level.)",
+          "namespace": "TitleText",
+          "key": "5DDB3A00431EA486E7AC5EB133F9C358"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_JOBLV_DESC",
+        "value": {
+          "string": "Continue with each character's job levels from your completed game.\n(If jobs themselves are not carried over, current job levels will be applied\nonce the applicable jobs have been unlocked.)",
+          "namespace": "TitleText",
+          "key": "FD2B002441F0702BA9C571AE4DDAC5DC"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_CARD_DESC",
+        "value": {
+          "string": "Continue with the B 'n' D cards from your completed game.",
+          "namespace": "TitleText",
+          "key": "9DE2F84243F8726F090459B71FDC016F"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_RECORD_DESC",
+        "value": {
+          "string": "Continue with the B 'n' D record from your completed game.",
+          "namespace": "TitleText",
+          "key": "A7E9FC7943AFB5F31C9621B2BF977737"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_RANK_DESC",
+        "value": {
+          "string": "Continue with the B 'n' D rank from your completed game.",
+          "namespace": "TitleText",
+          "key": "B9E5510D461FD102FB3345A795D7B85A"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_CAPTURE_DESC",
+        "value": {
+          "string": "Continue with the monsters captured from your completed game.",
+          "namespace": "TitleText",
+          "key": "F2C593D04178A53DDED480B72F3CC4FD"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_CAPTURECOUNT_DESC",
+        "value": {
+          "string": "Continue with the number of monsters captured from your completed game.",
+          "namespace": "TitleText",
+          "key": "3074FA4946A5DB5FDABD319F24617FA9"
+        }
+      },
+      {
+        "key": "TITLE_INHERIT_CONFIRM",
+        "value": {
+          "string": "Carry the following data over into your new game?",
+          "namespace": "TitleText",
+          "key": "624E45154F93D6E61A026AB185B9D7CB"
+        }
+      },
+      {
+        "key": "LOADING_TIPS",
+        "value": {
+          "string": "Handy Hints",
+          "namespace": "TitleText",
+          "key": "597BD09D4FC4B961E99CD4BD5C3777F5"
+        }
+      }
+    ]
+  }
+]
